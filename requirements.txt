@@ -1,0 +1,6 @@
+requests
+pandas
+lxml
+fake_useragent
+xlsxwriter
+tqdm
